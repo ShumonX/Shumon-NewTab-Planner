@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Shumon's Planner",
+  "version": "1.0",
+  "description": "A custom new tab page with a 6-section notepad.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
