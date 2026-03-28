@@ -26,5 +26,7 @@ Press the "Clear All" button at the end of every evening.
 And lastly — write the tasks for next day on the PREVIOUS evening.
 
 Kind regards,
-ShumonX
+Shumon
 https://www.linkedin.com/in/shum7n/
+
+<img width="667" height="375" alt="blaze2" src="https://github.com/user-attachments/assets/8465d14e-6315-4bf6-92b3-d36b4bc1530f" />
