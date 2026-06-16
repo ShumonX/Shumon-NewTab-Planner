@@ -33,3 +33,9 @@ Shumon
 https://www.linkedin.com/in/shum7n/
 
 <img width="667" height="375" alt="blaze2" src="https://github.com/user-attachments/assets/8465d14e-6315-4bf6-92b3-d36b4bc1530f" />
+
+P.S. 1: Making this extension taught me the importance of keeping things "lightweight". Of course, just a little bit of decoration is required with using a custom font, rounded corners, etc. But skipped the favicon - and skipping such small things add up and make the extension load a few microseconds faster. The key is balance, even when we are highly skewed towards being "lightweight" - a bit of decoration is ok, or even crucial for a pleasant experience.
+
+P.S. 2: Making this extension also taught me to go the exact opposite of a disgusting word what 99% people chase these days - "monetisation". Most people have monetisation on their minds, or even thoroughly have architected & engineered how to squeeze money or user details, even when they haven't yet thought of what their app will do. That is disgusting; please give most of your work to the world for free.
+
+P.S. 3: Making this extension also made me reaslise that these days, majority of an app's code, people's energies, and their software architecture goes into extracting user's personal details, IP addresses, cross-website cookie tracking etc. And only a small minority of that same app's code, people's energies, and its software architecture actually performs the real work of that app, i.e., what that app is supposed to do. This is disgusting.
