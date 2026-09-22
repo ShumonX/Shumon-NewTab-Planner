@@ -1,4 +1,4 @@
-# Shumon-NewTab-Planner
+pleasing-NewTab-Planner
 
 Microsoft Edge Extension:
 [Link](https://microsoftedge.microsoft.com/addons/detail/shumons-planner/dnnfdnagfboajgjibhkellfgemiiddij)
@@ -34,7 +34,7 @@ https://www.linkedin.com/in/shum7n/
 
 <img width="667" height="375" alt="blaze2" src="https://github.com/user-attachments/assets/8465d14e-6315-4bf6-92b3-d36b4bc1530f" />
 
-P.S. 1: Making this extension taught me the importance of keeping things "lightweight". Of course, just a little bit of decoration is required with using a custom font, rounded corners, etc. But skipped the favicon - and skipping such small things add up and make the extension load a few microseconds faster. The key is balance, even when we are highly skewed towards being "lightweight" - a bit of decoration is ok, or even crucial for a « pleasant / pleasing » experience.
+P.S. 1: Making this extension taught me the importance of keeping things "lightweight". Of course, just a little bit of decoration is required with using a custom font, rounded corners, etc. But skipped the favicon - and skipping such small things add up and make the extension load a few microseconds faster. The key is balance, even when we are highly skewed towards being "lightweight" - a bit of decoration is ok, or even crucial for a « pleasing » experience.
 
 P.S. 2: Making this extension also taught me to go the exact opposite of a disgusting word what 99% people chase these days - "monetisation". Most people have monetisation on their minds, or even thoroughly have architected & engineered how to squeeze money or user details, even when they haven't yet thought of what their app will do. That is disgusting; please give most of your work to the world for free.
 
